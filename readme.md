@@ -1,6 +1,7 @@
 # MapViewer
 
 Simple gui program for viewing and downloading maps from internet.
+![Image](mapviewer.png)
 
 ## Batch mode
 
